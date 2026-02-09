@@ -1,7 +1,6 @@
 # BioUtils
 
 This repo contains various bioinformatics utilities.
-It is currently under development.
 
 To use it I have built a CLI, here is a quickstart:
 ```shell
