@@ -4,7 +4,7 @@ This repo contains various bioinformatics utilities.
 
 To use it I have built a CLI, here is a quickstart:
 ```shell
-git clone https://github.com/Egeyae/BioUtils
+git clone https://github.com/mathisren/BioUtils
 cd BioUtils
 python3 -m virtualenv .venv
 source .venv/bin/activate
